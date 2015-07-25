@@ -1,5 +1,5 @@
 # FatController
-
+[![Build Status](https://travis-ci.org/rustyoz/fatcontroller.svg?branch=master)](https://travis-ci.org/rustyoz/fatcontroller)
 ## What is it?
 
 A virtual hosting tool written in Golang.
