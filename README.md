@@ -54,4 +54,4 @@ port = 9000
 ```
 
 ## Made using
-[Viper](https://github.com/spf13/viper) by Steve Francia [spf13](https://github.com/spf13)
+File based configuration using [Viper](https://github.com/spf13/viper) made by Steve Francia [spf13](https://github.com/spf13)
